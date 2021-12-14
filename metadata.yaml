@@ -1,0 +1,36 @@
+_repo: Marbacka_66906
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Howard, Velma Swanston
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '4490'
+    url: http://www.gutenberg.org/2009/agents/4490
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerlof, Selma
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+    - https://en.wikipedia.org/wiki/Selma_Lagerlöf
+    - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+description: ''
+gutenberg_issued: '2021-12-09'
+identifiers:
+  gutenberg: '66906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mårbacka
+url: http://www.gutenberg.org/ebooks/66906
